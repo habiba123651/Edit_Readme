@@ -15,4 +15,9 @@ Elle affiche le pokedex du jeu Pokemon et utilise l'API de Github permettant d�
       Affichage d’un détail d’un élément de la liste 
       Appels  REST 
       MVVM 
+      
+  # Détails du Pokémon 
+      Affichage de différentes informations du Pokémon 
+
+
 
