@@ -10,6 +10,7 @@ Elle affiche le pokedex du jeu Pokemon et utilise l'API de Github permettant d�
     Installation d’Android Studio
     Récupération de la branche develop   
     https://githib.com/LudoCarlu/Pokemon/git 
+    
 
  # Consignes respectées 
       Ecrans : 2 activités, 2 Fragments 
